@@ -1,7 +1,7 @@
 # Parallax
 A mobile Parallax webpage using HTML, CSS and JavaScript (Laxxx.js)
 
-##Demo
+## Demo
 https://marcldo.github.io/Parallax/
 
 ![](images/parallaxDemo.gif)
